@@ -12,18 +12,18 @@ and open the template in the editor.
 /* vista en grid */
 .front #grueso .block {margin-bottom:10px;}
 .front #grueso .block-block {
-	border-bottom:1px solid #dae0b8;
-	background-color:#fff;
-	-moz-box-shadow: 0 5px 10px -5px #dae0b8; /* firefox */
-	-webkit-box-shadow: 0 5px 10px -5px #dae0b8;
-	box-shadow: 0 5px 10px -5px #dae0b8; /* chrome */
+	border-bottom:1px solid #5A7BCB;
+	background-color:#FF0000;
+	-moz-box-shadow: 0 5px 10px -5px #A200FF; /* firefox */
+	-webkit-box-shadow: 0 5px 10px -5px #A200FF;
+	box-shadow: 0 5px 10px -5px #A200FF; /* chrome */
 }
 .front .grueso .block-views .view-content {
-	border-bottom:1px solid #dae0b8;
-	background-color:#fff;
-	-moz-box-shadow: 0 5px 10px -5px #dae0b8; /* firefox */
-	-webkit-box-shadow: 0 5px 10px -5px #dae0b8;
-	box-shadow: 0 5px 10px -5px #dae0b8; /* chrome */
+	border-bottom:1px solid #A200FF;
+	background-color:#FF0000;
+	-moz-box-shadow: 0 5px 10px -5px #A200FF; /* firefox */
+	-webkit-box-shadow: 0 5px 10px -5px #A200FF;
+	box-shadow: 0 5px 10px -5px #A200FF; /* chrome */
 }
 .front #grueso #block-views-inicio_programas-block_1.block tr.row-2 div,
 .front #grueso #block-views-inicio_programas-block_1.block tr.row-3 div {display:none;}
@@ -41,13 +41,13 @@ and open the template in the editor.
 }
 .front .views-view-grid td, .page-ri .views-view-grid td {
 	vertical-align:top;
-	border-bottom:1px solid #EFF2DC;
+	border-bottom:1px solid #A200FF;
 	padding:0;
 }
 body.page-educacion-continuada .views-view-grid {font-size:0.9em;}
 body.page-educacion-continuada .view-inicio-educacion-continuada td {
 	vertical-align:top;
-	border-bottom:1px solid #EFF2DC;
+	border-bottom:1px solid #A200FF;
 	padding:10px;
 }
 .front .views-view-grid tr.row-last td, .page-ri .views-view-grid tr.row-last td {border-bottom:none;}
@@ -106,4 +106,5 @@ body.front #grueso .view-footer {text-align:right;}
 }
 /* salud */
 #promocional1 p {margin:0;}
+
 
